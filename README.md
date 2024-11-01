@@ -1,6 +1,6 @@
 # Regrasi Linear Selling Car
 ## Tujuan
-### Prediksi: Memperkirakan nilai variabel dependen berdasarkan variabel independen
+Prediksi: Memperkirakan nilai variabel dependen berdasarkan variabel independen
 Analisis Hubungan: Menganalisis kekuatan dan arah hubungan antara variabel.
 Identifikasi Variabel Penting: Menemukan variabel independen yang paling berpengaruh terhadap hasil.
 Kuantifikasi Pengaruh: Mengukur seberapa besar pengaruh variabel independen terhadap variabel dependen.
